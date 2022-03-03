@@ -1,0 +1,9 @@
+Measurement error point [1] = 3.07625 %
+Measurement error point [2] = 5.18455 %
+Measurement error point [3] = 3.10121 %
+Measurement error point [4] = 32.5681 %
+Measurement error point [5] = 15.69 %
+Measurement error point [6] = 2.52704 %
+Measurement error point [7] = 2.04469 %
+Measurement error point [8] = 94.01 %
+Average error = 19.7752 %
